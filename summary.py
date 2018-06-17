@@ -22,7 +22,7 @@ def to_grapf(parsentage, title):
 
 def to_word_cloud(text, title):
 
-    wordcloud = WordCloud(background_color="white", font_path=font, stopwords=set("その他"), width=600, height=350).generate(text)
+    wordcloud = WordCloud(background_color="white", font_path=font, width=600, height=350).generate(text)
     wordcloud.to_file("word_cloud/" + title + ".png")
 
 if __name__ == "__main__":
@@ -57,5 +57,8 @@ if __name__ == "__main__":
         parsentage = summary / len(li) * 100
         parsentage.to_csv("summary_data/" + i + "_sumarry.csv")
 
+        text = " ".join(counter)
+        text = text.replace("その他", "")
+
         to_grapf(parsentage=parsentage, title=i)
-        to_word_cloud(text=" ".join(counter), title=i)
+        to_word_cloud(text=text, title=i)
