@@ -22,7 +22,7 @@ def to_grapf(parsentage, title):
 
 def to_word_cloud(text, title):
 
-    wordcloud = WordCloud(background_color="white", font_path=font, width=600, height=350).generate(text)
+    wordcloud = WordCloud(background_color="white", font_path=font, stopwords=set("その他"), width=600, height=350).generate(text)
     wordcloud.to_file("word_cloud/" + title + ".png")
 
 if __name__ == "__main__":
