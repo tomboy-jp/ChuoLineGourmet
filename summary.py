@@ -24,7 +24,7 @@ def to_word_cloud(text, title):
 
     wordcloud = WordCloud(background_color="white", font_path=font, width=900, height=500).generate(text)
 
-    plt.figure(figsize=(15,12))
+    plt.figure(figsize=(10, 6))
     plt.imshow(wordcloud)
     plt.axis("off")
     plt.savefig("word_cloud/" + title + ".png")
