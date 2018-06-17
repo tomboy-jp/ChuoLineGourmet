@@ -1,5 +1,5 @@
 # 中央線グルメ傾向調査
-中央線沿いにある各駅の飲食店傾向について探ります。
+中央線沿いにある各駅の飲食店傾向について探ります。  
 ひとまずグラフとワードクラウドを貼り付けておきます。  
 分析と解説はまた後日。  
 
@@ -19,6 +19,7 @@
 三鷹  
 ![三鷹グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/三鷹.png "三鷹グラフ")  
 
+  
 ## ワードクラウド
 中野  
 ![中野ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/中野.png "中野ワードクラウド")  
