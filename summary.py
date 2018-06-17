@@ -53,6 +53,7 @@ if __name__ == "__main__":
             counter += j[0].strip(" ").split("、")
 
         summary = pd.Series(counter).value_counts(ascending=False)
+        summary = summary.drop(index="その他")
         parsentage = summary / len(li) * 100
         parsentage.to_csv("summary_data/" + i + "_sumarry.csv")
 
