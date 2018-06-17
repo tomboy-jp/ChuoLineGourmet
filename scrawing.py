@@ -47,4 +47,4 @@ for station_name, station_id in station_dic.items():
         cnt += 1
 
     se = pd.Series(li)
-    se.to_csv("data/" + station_name + "_" + date + ".csv", index=False)
+    se.to_csv("data/" + station_name + "_" + ".csv", index=False)
