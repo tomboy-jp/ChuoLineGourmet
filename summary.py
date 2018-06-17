@@ -23,12 +23,7 @@ def to_grapf(parsentage, title):
 def to_word_cloud(text, title):
 
     wordcloud = WordCloud(background_color="white", font_path=font, width=900, height=500).generate(text)
-
-    plt.figure(figsize=(10, 6))
-    plt.imshow(wordcloud)
-    plt.axis("off")
-    plt.savefig("word_cloud/" + title + ".png")
-
+    wordcloud.to_file("word_cloud/" + title + ".png")
 
 if __name__ == "__main__":
 
