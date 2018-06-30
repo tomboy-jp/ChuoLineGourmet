@@ -20,10 +20,9 @@ matplotlibとWordCloudを使って可視化するだけです。
 カフェとバーが続き、それ以下で各街での特色が出ているようです。
 
 ## 中野
-![中野グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/中野.png "中野グラフ")  
-
 ![中野ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/中野.png "中野ワードクラウド")  
 
+![中野グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/中野.png "中野グラフ")  
 焼鳥とダイニングバーが多めで、パン屋が少ない印象を受けました。  
 北口飲み屋街における焼鳥率は一度でも訪れた方なら納得できる結果かと。  
 ダイニングバーの比率は意外に思うかも知れませんが、南口マルイ脇のレンガ坂はなかなかのシャレオツ通りで大人な感じのバーがずらりと並んでいます。  
@@ -31,31 +30,31 @@ matplotlibとWordCloudを使って可視化するだけです。
 確かにボンジュールボン以外あまり見かけないですね。  
 
 ## 高円寺  
-![高円寺グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/高円寺.png "高円寺グラフ")  
-
 ![高円寺ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/高円寺.png "高円寺ワードクラウド")  
 
-## 阿佐谷  
-![阿佐ヶ谷グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/阿佐ヶ谷.png "阿佐ヶ谷グラフ")  
+![高円寺グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/高円寺.png "高円寺グラフ")  
 
+## 阿佐谷  
 ![阿佐ヶ谷ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/阿佐ヶ谷.png "阿佐ヶ谷ワードクラウド")  
 
-## 荻窪  
-![荻窪グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/荻窪.png "荻窪グラフ")  
+![阿佐ヶ谷グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/阿佐ヶ谷.png "阿佐ヶ谷グラフ")  
 
+## 荻窪  
 ![荻窪ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/荻窪.png "荻窪ワードクラウド")  
 
-## 西荻窪  
-![西荻窪グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/西荻窪.png "西荻窪グラフ")  
+![荻窪グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/荻窪.png "荻窪グラフ")  
 
+## 西荻窪  
 ![西荻窪ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/西荻窪.png "西荻窪ワードクラウド")  
 
-## 吉祥寺  
-![吉祥寺グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/吉祥寺.png "吉祥寺グラフ")  
+![西荻窪グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/西荻窪.png "西荻窪グラフ")  
 
+## 吉祥寺  
 ![吉祥寺ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/吉祥寺.png "吉祥寺ワードクラウド")  
 
-## 三鷹  
-![三鷹グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/三鷹.png "三鷹グラフ")  
+![吉祥寺グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/吉祥寺.png "吉祥寺グラフ")  
 
+## 三鷹  
 ![三鷹ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/三鷹.png "三鷹ワードクラウド")  
+
+![三鷹グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/三鷹.png "三鷹グラフ")  
