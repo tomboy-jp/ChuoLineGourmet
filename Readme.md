@@ -50,20 +50,41 @@ matplotlibとWordCloudを使って可視化するだけです。
 
 ## 荻窪  
 ![荻窪ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/荻窪.png "荻窪ワードクラウド")  
-
 ![荻窪グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/荻窪.png "荻窪グラフ")  
+特筆すべきはラーメンのスコアでしょう。  
+都内でも筆頭の激戦区として知られ、春木屋をはじめとして十八番や丸福、久保田、二郎などの有名店が立ち並ぶ荻窪。  
+いかにも納得の結果です。  
+逆にバーやダイニングバーなどの順位は低めで、和食と中華が充実している模様です。  
 
 ## 西荻窪  
 ![西荻窪ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/西荻窪.png "西荻窪ワードクラウド")  
 
 ![西荻窪グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/西荻窪.png "西荻窪グラフ")  
+和食多めの荻窪とカフェやスイーツが多めの吉祥寺。  
+その二駅を足して二で割ったような印象です。  
+数少ないケーキがランクインしているかと思いきや、  
+荻窪と同様に魚介・海鮮系が上位にランクインしていたりとなかなかカオスな模様。  
+悪く言えば全体的に一貫制がないのですが、よくいえば選択肢の幅が多いのが特徴です。  
 
 ## 吉祥寺  
 ![吉祥寺ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/吉祥寺.png "吉祥寺ワードクラウド")  
 
 ![吉祥寺グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/吉祥寺.png "吉祥寺グラフ")  
+吉祥寺は想像していた以上に吉祥寺でした。  
+カフェ、バー、ダイニングバー、イタリアン、スイーツなど、  
+女子力高めのカテゴリが上位を占めながらも焼き鳥屋・ラーメンといった  
+おっさん力高めなコンテンツもしっかり揃っているのが吉祥寺。  
+公園や東急の裏エリアといったオシャレエリアもあれば、  
+ハーモニカ横丁のようなちょっと昭和なエリアもある。  
+そんな魅力が多くの人を惹き付けるのでしょう。
 
 ## 三鷹  
 ![三鷹ワードクラウド](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/word_cloud/三鷹.png "三鷹ワードクラウド")  
 
 ![三鷹グラフ](https://raw.githubusercontent.com/tomboy-jp/ChuoLineGourmet/master/grapf/三鷹.png "三鷹グラフ")  
+全体的に和食度高めの三鷹。  
+ラーメンもそこそこ強かったりと荻窪との類似性が高めです。  
+実は個人経営の和食系飲み屋が多い三鷹なのですが、結果にもしっかり反映されているようです。  
+他、西荻窪と同様にケーキがランクインしているのですが、これは吉祥寺文化の影響でしょう。  
+
+以上、レポでした。
